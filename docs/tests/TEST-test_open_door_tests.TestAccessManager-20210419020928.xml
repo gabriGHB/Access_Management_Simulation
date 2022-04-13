@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_open_door_tests.TestAccessManager-20210419020928" tests="5" file="test_open_door_tests.py" time="0.007" timestamp="2021-04-19T02:09:29" failures="0" errors="0" skipped="0">
+	<testcase classname="test_open_door_tests.TestAccessManager" name="test_open_door_bad_key_is_expired" time="0.002" timestamp="2021-04-19T02:09:29"/>
+	<testcase classname="test_open_door_tests.TestAccessManager" name="test_open_door_bad_key_is_not_found" time="0.001" timestamp="2021-04-19T02:09:29"/>
+	<testcase classname="test_open_door_tests.TestAccessManager" name="test_open_door_bad_key_regex" time="0.001" timestamp="2021-04-19T02:09:29"/>
+	<testcase classname="test_open_door_tests.TestAccessManager" name="test_open_door_good" time="0.001" timestamp="2021-04-19T02:09:29"/>
+	<testcase classname="test_open_door_tests.TestAccessManager" name="test_open_door_resident" time="0.001" timestamp="2021-04-19T02:09:29"/>
+</testsuite>
